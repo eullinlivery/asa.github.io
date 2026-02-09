@@ -1,0 +1,7 @@
+{
+  "name": "SARA ❤️ IA",
+  "description": "Visualitza el canvi de color de les teves parets, sostres i portes a l'instant amb la nostra tecnologia d'Intel·ligència Artificial. Puja una foto i deixa que SARA ❤️ IA transformi la teva llar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

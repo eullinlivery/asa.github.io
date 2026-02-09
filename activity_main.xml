@@ -1,0 +1,28 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/xml/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B2FFFF"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="🌼 SARA ❤️ IA 🌼"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#5BBAB5" />
+
+    <Button
+        android:id="@+id/btnEntrar"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titulo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="ENTRAR"
+        android:backgroundTint="#FFFFFF"
+        android:textColor="#5BBAB5" />
+</RelativeLayout>
